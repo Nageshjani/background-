@@ -1,0 +1,10 @@
+API KEY:
+
+ip3xrf55jn8xebsu
+
+# https://kite.zerodha.com/connect/login?v=4&api_key=ip3xrf55jn8xebsu
+
+https://kite.zerodha.com/?request_token=IFuv4os4ZGVrUjCNZga7GwI5Hd4Mn8NX&action=login&type=login&status=success
+API SECRET:
+
+eqmcw0lo3fjs4rdpur0y13cx5o66ecrr
